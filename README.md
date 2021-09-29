@@ -13,7 +13,7 @@ I WANT to be able to view and manage the departments, roles, and employees in my
 SO THAT I can organize and plan my business
 ```
 
-## DNB's SOLUTION:
+## SOLUTION:
  
 🗂️ [Github Repository](https://github.com/cakspri/Employee-Management-System)
 
