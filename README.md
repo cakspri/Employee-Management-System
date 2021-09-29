@@ -14,10 +14,10 @@ SO THAT I can organize and plan my business
 ```
 
 ## DNB's SOLUTION:
-#### UNC Boot Camp Submission: 
-🗂️ [Github Repository](https://github.com/DionneNoellaBarretto/12-EmployeeContentManagementSystem_using_mysql-node.js)
+ 
+🗂️ [Github Repository](https://github.com/cakspri/Employee-Management-System)
 
-📰[ReadMe](https://dionnenoellabarretto.github.io/12-EmployeeContentManagementSystem_using_mysql-node.js/)
+📰[ReadMe](https://github.com/cakspri/Employee-Management-System/blob/main/README.md)
 
 ## Installation Instructions: 
 To view the **content management systems (CMS)** interface, first run 'npm install' or 'npm i' after cloning this repository to your local system in order to install the npm package dependencies as specified in the 'package.json'. Prior to proceeding update the .envUpdateMe by editing your mysql username and password for the db & updating the file name to .env in the root folder itself. Next proceed to source the schema and seed files by connecting to the mysql db using your login credentials and then run this application using 'node server.js' or 'npm start' to plough through the subsequent command line prompts. 
