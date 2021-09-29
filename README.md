@@ -49,14 +49,14 @@ Try to add some additional functionality to your application, such as the abilit
 ✅ View the total utilized budget of a department;in other words, the combined salaries of all employees in that department
     👉SELECT SUM(salary) AS "Total Salary" FROM employees;
 ```
-![Gif Demo](./Assets/Bonus.gif)
+
 
 
 ## Mock-Up
 
 [Video Link - Demonstration](https://drive.google.com/file/d/1Uh4gnhaJu52bZGt9QHCibVasnHWcKzmn/view?usp=sharing) | [Bonus Exercise Video](https://drive.google.com/file/d/1VR3N3GaZWshDKILkHMVIvGCV5EM3bRNm/view)
 
-![Gif Demo](./Assets/EmployeeContentManagementSystem_using_mysql-node.js.gif)
+
 
 DB Schema Mapping: 
 ![DB Schema Mapping](./Assets/12-sql-homework-demo-01.png)
